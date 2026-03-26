@@ -1,6 +1,10 @@
 print("start project")
 
 
+
+def cube(a):
+    return a ** 3
+
 def on_ters(san):
     if san > 0:
         print("он сан")
